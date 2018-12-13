@@ -1,6 +1,6 @@
 # Tv_script_generation
 
-Tv_Script_generation project is a part of DEEP LEARNING nano degree of UDACITY. In this project, I generated own Seinfeld TV scripts using RNNs. I'll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network I built will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
+Tv_Script_generation project is a part of DEEP LEARNING nano degree of UDACITY. In this project, I generated own TV scripts using RNNs. I'll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network I built will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
 # Project Execution and Dependencies
 
