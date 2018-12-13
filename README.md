@@ -1,5 +1,5 @@
-# tv_script_generation
-# Dog_breed_Classifier
+# Tv_script_generation
+
 Tv_Script_generation project is a part of DEEP LEARNING nano degree of UDACITY. In this project, I generated own Seinfeld TV scripts using RNNs. I'll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network I built will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
 # Project Execution and Dependencies
@@ -24,7 +24,8 @@ Tv_Script_generation project is a part of DEEP LEARNING nano degree of UDACITY. 
       ```
  5) Model will generate fake script. You can see that there are multiple characters that say (somewhat) complete sentences, but it doesn't have to be perfect! It takes quite a while to get good results, and often, you'll have to use a smaller vocabulary (and discard uncommon words), or get more data. The Seinfeld dataset is about 3.4 MB, which is big enough for our purposes; for script generation you'll want more than 1 MB of text, generally.
  
- Below is the script got generated after training the model with suitable hyper parameters which gave loss of 0.4 after running for 100 epochs.
+ 6) Below is the script got generated after training the model with suitable hyper parameters which gave loss of 0.4 after running for 100 epochs.
+ 
  
  jerry: as packets looks) and by the manager or mutual around up with a world sensitive made the manager) get down with the ball mill the inn interests and i was facing.
 
