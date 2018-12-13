@@ -27,26 +27,26 @@ Tv_Script_generation project is a part of DEEP LEARNING nano degree of UDACITY. 
  6) Below is the script got generated after training the model with suitable hyper parameters which gave loss of 0.4 after running for 100 epochs.
  
  
- **jerry: as packets looks) and by the manager or mutual around up with a world sensitive made the manager) get down with the ball mill the inn interests and i was facing.
+ **jerry: as packets looks) and by the manager or mutual around up with a world sensitive made the manager) get down with the ball mill the inn interests and i was facing.**
 
-jerry: yeah, he's thinking her when, he's down the phone!
+**jerry: yeah, he's thinking her when, he's down the phone!**
 
-kramer: hey, look at these this is bogus?
+**kramer: hey, look at these this is bogus?**
 
-kramer:(shrugging i know her this?
+**kramer:(shrugging i know her this?**
 
-jerry: yeah, in too so, uh, went here.
+**jerry: yeah, in too so, uh, went here.**
 
-chauffeur: i'm sorry.
+**chauffeur: i'm sorry.**
 
-stu: so i guess these finds(gets finger the phone book out of here. and well...
+**stu: so i guess these finds(gets finger the phone book out of here. and well...**
 
 **kramer:(to joel) who drive you are in the mirror.**
 
-**elaine: what? really? really? really? really, thanks. what do i want you running out?
+**elaine: what? really? really? really? really, thanks. what do i want you running out?**
 
-**jerry: yeah.
+**jerry: yeah.**
 
-**george: sorry, i'm starving here is a paper. eh, all on my lap of people. he's a bit of fact room to have the doctor line, my tellin, hand. he's a bit 2.
+**george: sorry, i'm starving here is a paper. eh, all on my lap of people. he's a bit of fact room to have the doctor line, my tellin, hand. he's a bit 2.**
     
 
