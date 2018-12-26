@@ -50,3 +50,7 @@ Tv_Script_generation project is a part of DEEP LEARNING nano degree of UDACITY. 
 **george: sorry, i'm starving here is a paper. eh, all on my lap of people. he's a bit of fact room to have the doctor line, my tellin, hand. he's a bit 2.**
     
 
+Here is my course completion certificate
+
+![alt text](https://github.com/shankar939014/tv_script_generation/blob/master/DLND_Certificate.JPG "Logo Title Text 1")
+
